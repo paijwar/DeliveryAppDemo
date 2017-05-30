@@ -1,0 +1,170 @@
+{
+  "order_list": [
+    {
+      "order_id": "123451234500001",
+      "status": "confirmed",
+      "billAmount": "200.00",
+      "payAmount": "0.0",
+      "amountToCollect": "0.0",
+      "restaurantName": "My Restaurant 1",
+      "restaurantAddress": "Shop No. 2, Street 4, 560066",
+      "customerMobileNumber": "8888857900",
+      "customerName": "Pradeep",
+      "deliveryAddress":"Whitefield, Bangalore",
+      "customerLocationLat": "12.977899",
+      "customerLocationLng": "77.722912",
+      "restaurantLocationLat": "12.9357765",
+      "restaurantLocationLng": "77.6148898",
+      "items": [
+        {
+          "itemName": "roti",
+          "variant": "",
+          "addOn": "",
+          "quantity": "5",
+          "price": "50"
+        },
+        {
+          "itemName": "dal",
+          "variant": "",
+          "addOn": "",
+          "quantity": "1",
+          "price": "150"
+        }
+      ],
+      "timestamp": "1496087153"
+    },
+    {
+      "order_id": "123451234500002",
+      "status": "arrived",
+      "billAmount": "300.00",
+      "payAmount": "0.0",
+      "amountToCollect": "0.0",
+      "restaurantName": "My Restaurant 1",
+      "restaurantAddress": "Shop No. 2, Street 4, 560066",
+      "deliveryAddress":"Whitefield, Bangalore",
+      "customerMobileNumber": "8888857900",
+      "customerName": "Pradeep",
+      "deliveryAddress":"Whitefield, Bangalore",
+      "customerLocationLat": "12.977899",
+      "customerLocationLng": "77.722912",
+      "restaurantLocationLat": "12.9357765",
+      "restaurantLocationLng": "77.6148898",
+      "items": [
+        {
+          "itemName": "roti",
+          "variant": "",
+          "addOn": "",
+          "quantity": "15",
+          "price": "150"
+        },
+        {
+          "itemName": "dal",
+          "variant": "",
+          "addOn": "",
+          "quantity": "1",
+          "price": "150"
+        }
+      ],
+      "timestamp": "1496087153"
+    },
+    {
+      "order_id": "123451234500003",
+      "status": "picked up",
+      "billAmount": "300.00",
+      "payAmount": "0.0",
+      "amountToCollect": "0.0",
+      "restaurantName": "My Restaurant 1",
+      "restaurantAddress": "Shop No. 2, Street 4, 560066",
+      "customerMobileNumber": "8888857900",
+      "customerName": "Pradeep",
+      "deliveryAddress":"Whitefield, Bangalore",
+      "customerLocationLat": "12.977899",
+      "customerLocationLng": "77.722912",
+      "restaurantLocationLat": "12.9357765",
+      "restaurantLocationLng": "77.6148898",
+      "items": [
+        {
+          "itemName": "roti",
+          "variant": "",
+          "addOn": "",
+          "quantity": "15",
+          "price": "150"
+        },
+        {
+          "itemName": "dal",
+          "variant": "",
+          "addOn": "",
+          "quantity": "1",
+          "price": "150"
+        }
+      ],
+      "timestamp": "1496087153"
+    },
+    {
+      "order_id": "123451234500004",
+      "status": "reached",
+      "billAmount": "300.00",
+      "payAmount": "0.0",
+      "amountToCollect": "0.0",
+      "restaurantName": "My Restaurant 1",
+      "restaurantAddress": "Shop No. 2, Street 4, 560066",
+      "customerMobileNumber": "8888857900",
+      "customerName": "Pradeep",
+      "deliveryAddress":"Whitefield, Bangalore",
+      "customerLocationLat": "12.977899",
+      "customerLocationLng": "77.722912",
+      "restaurantLocationLat": "12.9357765",
+      "restaurantLocationLng": "77.6148898",
+      "items": [
+        {
+          "itemName": "roti",
+          "variant": "",
+          "addOn": "",
+          "quantity": "15",
+          "price": "150"
+        },
+        {
+          "itemName": "dal",
+          "variant": "",
+          "addOn": "",
+          "quantity": "1",
+          "price": "150"
+        }
+      ],
+      "timestamp": "1496087153"
+    },
+    {
+      "order_id": "123451234500005",
+      "status": "delivered",
+      "billAmount": "300.00",
+      "payAmount": "0.0",
+      "amountToCollect": "0.0",
+      "restaurantName": "My Restaurant 1",
+      "restaurantAddress": "Shop No. 2, Street 4, 560066",
+      "customerMobileNumber": "8888857900",
+      "customerName": "Pradeep",
+      "deliveryAddress":"Whitefield, Bangalore",
+      "customerLocationLat": "12.977899",
+      "customerLocationLng": "77.722912",
+      "restaurantLocationLat": "12.9357765",
+      "restaurantLocationLng": "77.6148898",
+      "items": [
+        {
+          "itemName": "roti",
+          "variant": "",
+          "addOn": "",
+          "quantity": "15",
+          "price": "150"
+        },
+        {
+          "itemName": "dal",
+          "variant": "",
+          "addOn": "",
+          "quantity": "1",
+          "price": "150"
+        }
+      ],
+      "timestamp": "1496087153"
+    }
+  ]
+}
